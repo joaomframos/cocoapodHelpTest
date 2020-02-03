@@ -1,0 +1,6 @@
+framework module helptest {
+  umbrella header "helptest-umbrella.h"
+
+  export *
+  module * { export * }
+}

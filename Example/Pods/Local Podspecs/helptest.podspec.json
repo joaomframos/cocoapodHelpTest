@@ -1,0 +1,22 @@
+{
+  "name": "helptest",
+  "version": "0.1.0",
+  "summary": "A short description of helptest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/joaomframos1/helptest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joaomframos1": "joaomframos.1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/joaomframos1/helptest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "helptest/Classes/**/*"
+}
